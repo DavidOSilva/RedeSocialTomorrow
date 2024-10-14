@@ -1,7 +1,7 @@
 # RedeSocialTomorrow
 É necessário criar um conexão mySQL e definir um arquivo .env com as seguintes caracteristicas:
 
-´´´env
+```env
 # Configurações do MySQL
 DB_HOST=localhost        
 DB_USER=root
@@ -11,4 +11,4 @@ DB_NAME=projeto
 # Configurações do JWT
 JWT_SECRET=senhasupersecreta007     # Chave gerar e validar JWT.
 JWT_EXPIRATION=120s
-´´´
+```
