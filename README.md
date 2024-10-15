@@ -23,12 +23,12 @@ Veja algumas imagens das telas principais do projeto:
 <p align="center">
     <details>
         <summary>Clique para mais detalhes</summary>
-        <img src="assets/screenshots/home.png" alt="Tela Home" width="800"/>
-        <img src="assets/screenshots/register.png" alt="Tela Register" width="800"/>
-        <img src="assets/screenshots/login.png" alt="Tela Login" width="800"/>
-        <img src="assets/screenshots/profile.png" alt="Tela Profile" width="800"/>
+        <img src="public/assets/screenshots/home.png" alt="Tela Home" width="800"/>
+        <img src="public/assets/screenshots/register.png" alt="Tela Register" width="800"/>
+        <img src="public/assets/screenshots/login.png" alt="Tela Login" width="800"/>
+        <img src="public/assets/screenshots/profile.png" alt="Tela Profile" width="800"/>
     </details>
-  <img src="assets/screenshots/navegation.gif" alt="Gif usando a aplicação" width="800">
+  <img src="public/assets/screenshots/navegation.gif" alt="Gif usando a aplicação" width="800">
 </p>
 
 ## 🚀 Instalação e dependências.
