@@ -18,16 +18,18 @@ Realiza a busca por um usuário específico e, caso encontrado, exibe todas as s
 - ***Verificação de Expiração de Token:***
 Quando o `token JWT` expira, o acesso a rotas protegidas (exceto login e registro) é bloqueado.
 
-## 🖼️ ️Algumas screenshots.
+## 🖼️ ️Algumas screenshots. 
 Veja algumas imagens das telas principais do projeto:
-<details>
-  <summary>Visualizações da Rede Social Tomorrow</summary>
-  [![Tela Home](assets/screenshots/home.png)](assets/screenshots/home.png)
-  [![Tela Register](assets/screenshots/register.png)](assets/screenshots/register.png)
-  [![Tela Login](assets/screenshots/login.png)](assets/screenshots/login.png)
-  [![Tela Profile](assets/screenshots/profile.png)](assets/screenshots/profile.png)
-</details>
-![Navegando...](assets/screenshots/navegation.gif)
+<p align="center">
+    <details>
+        <summary>Clique para mais detalhes</summary>
+        <img src="assets/screenshots/home.png" alt="Tela Home" width="800"/>
+        <img src="assets/screenshots/register.png" alt="Tela Register" width="800"/>
+        <img src="assets/screenshots/login.png" alt="Tela Login" width="800"/>
+        <img src="assets/screenshots/profile.png" alt="Tela Profile" width="800"/>
+    </details>
+  <img src="assets/screenshots/navegation.gif" alt="Gif usando a aplicação" width="800">
+</p>
 
 ## 🚀 Instalação e dependências.
 Siga estas etapas para configurar e executar o projeto localmente na sua própria máquina. É necessário instalar [MySQL](https://www.mysql.com/downloads/) e o [Node.js](https://nodejs.org/en/download/package-manager) previamente.
